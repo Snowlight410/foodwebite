@@ -1,0 +1,20 @@
+{
+  "name": "fooodylife",
+  "version": "1.0.0",
+  "description": "This is food website for serving services about foods.",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Hassan",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "boxicons": "^2.1.4"
+  }
+}
